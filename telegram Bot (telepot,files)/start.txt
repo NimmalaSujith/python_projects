@@ -1,0 +1,10 @@
+Hello Friend, 
+Welcome to Bot channel.
+For files : /files
+Your token : /token
+About Bot  : /about
+Leave channel or
+Report ownner : /report
+........................................
+Edit channel : /edit
+(...Only for Ownner...)

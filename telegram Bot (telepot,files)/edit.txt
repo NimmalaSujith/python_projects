@@ -1,0 +1,3 @@
+Add New File Name  : /name
+Enter File Details : /file_details
+Delete File  : /delete
